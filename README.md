@@ -87,6 +87,9 @@ Python-Programming/
 **Option 1 — View online:**
 Click any `.ipynb` file directly on GitHub to read the notes and code.
 
+> ⚠️ If GitHub shows an error loading a notebook, open it on nbviewer instead — it always works:
+> [![Open in nbviewer](https://img.shields.io/badge/Open%20in-nbviewer-orange?style=for-the-badge&logo=jupyter&logoColor=white)](https://nbviewer.org/github/umaraihub/Python-Programming/tree/master/)
+
 **Option 2 — Run locally:**
 ```bash
 git clone https://github.com/umaraihub/Python-Programming.git
