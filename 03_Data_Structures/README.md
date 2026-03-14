@@ -211,9 +211,8 @@ jupyter notebook
 ---
 
 ## 🔗 Navigation
-
 | Previous | Current | Next |
-|---|---|---|
-| 📂 02 Control Flow ← | 📂 03 Data Structures | 📂 04 Functions → |
+|----------|---------|------|
+| [📂 02 Control Flow ←](../02_Control_Flow/) | 📂 03 Data Structures | [📂 04 Functions →](../04_Functions/) |
 
 Part of the 🐍 **Python Programming** repository by **Muhammad Umar**
